@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JackYouk
+- 👀 I’m interested in Fullstack development, Web 3.0
+- 🌱 I’m currently learning full stack development (HTML, CSS, JS)
+- 💞️ I’m looking to collaborate on anything! I need practice so please hit my phone I'd be happy to collab.
+- 📫 How to reach me --> email me at jackyoukstetter1@gmail.com
