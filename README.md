@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @JackYouk
-- 👀 I’m interested in Fullstack development, Web 3.0
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on anything! I need practice so please hit my phone I'd be happy to collab.
-- 📫 How to reach me --> email me at jackyoukstetter1@gmail.com
+Hey this is Jack Jack's github. I'm a full stack dev from Oakland, California and I'm currently working on independent projects and always learning new tools and skills. I'm interested in blockchain tech and would like to embark on learning solidity soon. For any inquiries feel free to email me at jackyoukstetter1@gmail.com. Also, I'm open to freelance work or employment opportunities!!
