@@ -1,6 +1,6 @@
 ฅ^•ﻌ•^ฅ... [jackjack.dev](https://jackjack.dev)
 
-🌉👨‍💻 Web developer from the SF Bay Area
+🌉👨‍💻 Software developer from the SF Bay Area
 
 ⚛️☁️ Expertise in Javascript/Typescript frameworks (React, Nextjs, +more) & scalable backend solutions
 
